@@ -100,4 +100,4 @@ Este projeto é open-source e está disponível sob a licença MIT. Sinta-se à 
 
 ## Layout
 
-![layout Lonig1](https://github.com/Amarilha/Steganography/blob/main/image/investigacao.png)
+![layout Lonig1](https://github.com/Amarilha/Steganography/blob/main/image/Layout_Steganography.png)
